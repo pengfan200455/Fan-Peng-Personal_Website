@@ -1,0 +1,27 @@
+---
+title: "Fan Peng ｜ Skills"
+editor: visual
+format: html
+---
+
+<div class="section-banner skills-banner">
+ <div class="banner-text">
+
+## Programming & Tools
+
+-   Proficient with R Studio, Python, LaTeX, SQL
+-   Experienced in data analysis and visualization using Excel and Tableau
+
+## Data & Statistical Analysis
+
+-   Skilled in data cleaning, modeling, and visualization
+-   Familiar with multiple regression, factor analysis, Poisson/Negative Binomial regression, time series analysis
+
+## Academic Coursework
+
+-   Mathematical Analysis, Advanced Calculus, Linear Algebra, Multivariable Calculus
+-   Probability Theory, Mathematical Statistics, Statistical Modeling, Bayesian Statistics, Sampling Theory
+-   Multivariate Analysis, Combinatorics, Linear Programming, ODEs, Discrete Mathematics, Symbolic Logic
+
+ </div>
+</div>

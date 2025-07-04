@@ -1,0 +1,13 @@
+---
+title: "Fan Peng | About Me"
+editor: visual
+format: html
+---
+
+Hi! I'm Fan Peng, an undergraduate student at the University of Toronto majoring in Mathematics and Statistics.
+
+I'm passionate about data, models, and uncovering insights behind numbers.
+
+Through rigorous coursework and hands-on projects, I've developed strong analytical and technical skills. My goal is to combine statistical modeling with real-world applications and pursue a career in data analytics, research, or consulting.
+
+Feel free to reach out for collaboration or conversation!

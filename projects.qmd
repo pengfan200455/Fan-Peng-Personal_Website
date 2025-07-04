@@ -1,0 +1,43 @@
+---
+title: "Fan Peng | Projects"
+editor: visual
+format: html
+---
+
+<div class="section-banner projects-banner">
+ <div class="banner-text">
+
+## ByteDance Tiktok Data Analysis Project Part-Time Assistant(May 2025 – Jul 2025)
+
+### Backgroud
+
+In response to the explosive growth of the short-video industry, I worked as a data analyst part-time assistant at ByteDance to uncover actionable insights from massive user activity datasets on the Douyin platform. My work supported product iteration, strategic growth, and data-driven decision-making.
+
+### Key Contributions:
+
+- **Data Cleaning & Preprocessing**: Cleaned and structured raw Tiktok platform data using R, Python (Pandas, NumPy), and Excel. Tasks included removing duplicates, standardizing time formats, transforming string fields, and handling outliers.
+- **User Dimension Analysis**: Analyzed daily views, unique users, and likes at the city level. Created visualizations (bar charts, heatmaps, pie charts) using Matplotlib, Seaborn, and Plotly to uncover regional user engagement trends and preferences.
+- **Creator Dimension Analysis**: Compared content performance metrics (views, likes) across cities of both users and content creators. Identified mismatch patterns and offered suggestions for content targeting and optimization.
+- **Behavioral & Completion Analysis**: Conducted multi-dimensional analysis on user behavior patterns, video completion rates, and content duration distribution. Used time-based and relational visualizations to generate insights for product strategy.
+- **Stakeholder Collaboration**: Worked closely with product managers, engineers, and channel teams to integrate findings into real-time testing and product iteration strategies.
+- **Toolset**: SQL, Python, Excel, R, and Rstudio.
+
+> Outcome: Delivered weekly summary briefs and a comprehensive report integrating quantitative insights to guide content recommendation and marketing decisions.
+
+
+## ABIDE Brain Imaging Statistical Project
+
+-   Applied PCA, FA, and CCA to extract neural patterns from ABIDE dataset
+-   Authored course paper titled "Applications of Multivariate Statistics in Autism Brain Imaging Research"
+
+## Ames Housing Price Prediction Project
+
+-   Built multiple regression models to identify key factors influencing prices
+-   Performed data cleaning, variable selection, model diagnostics and optimization
+
+## Family Size Regression Project
+
+-   Used Poisson and Negative Binomial regression to analyze effects of literacy, marriage age, and region on number of children
+
+ </div>
+</div>

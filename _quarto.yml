@@ -1,0 +1,32 @@
+project:
+  type: website
+
+resources:
+  - videos/   
+  
+website:
+  title: "Fan Peng | Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: skills.qmd
+        text: "Skills"
+      - href: projects.qmd
+        text: "Projects"
+      - href: internships.qmd
+        text: "Internships"
+      - href: about.qmd
+        text: "About"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    include-before-body: profile.html
+    include-after-body: music.html
+
+
+
+
