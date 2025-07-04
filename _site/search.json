@@ -1,187 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fan Peng | Home",
-    "section": "",
-    "text": "Your browser does not support the video tag."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Fan Peng | Home",
-    "section": "Education",
-    "text": "Education\n\nUniversity of Toronto\nBachelor of Science, Major in Mathematics and Statistics\nSep 2022 – Jun 2026\n\n\nProficient in data analysis, statistical modeling, and programming\nExtensive project and internship experience (see navigation above)"
-  },
-  {
-    "objectID": "index.html#programming-tools",
-    "href": "index.html#programming-tools",
-    "title": "About Me",
-    "section": "",
-    "text": "Proficient with R Studio, Python, LaTeX, SQL\nExperienced in data analysis and visualization using Excel and Tableau"
-  },
-  {
-    "objectID": "index.html#data-statistical-analysis",
-    "href": "index.html#data-statistical-analysis",
-    "title": "About Me",
-    "section": "",
-    "text": "Skilled in data cleaning, modeling, and visualization\nFamiliar with multiple regression, factor analysis, Poisson/Negative Binomial regression, time series analysis"
-  },
-  {
-    "objectID": "index.html#academic-coursework",
-    "href": "index.html#academic-coursework",
-    "title": "About Me",
-    "section": "",
-    "text": "Mathematical Analysis, Advanced Calculus, Linear Algebra, Multivariable Calculus\nProbability Theory, Mathematical Statistics, Statistical Modeling, Bayesian Statistics, Sampling Theory\nMultivariate Analysis, Combinatorics, Linear Programming, ODEs, Discrete Mathematics, Symbolic Logic\n\n// projects.qmd"
-  },
-  {
-    "objectID": "index.html#douyin-data-analysis-project-bytedance-may-2025-jul-2025",
-    "href": "index.html#douyin-data-analysis-project-bytedance-may-2025-jul-2025",
-    "title": "About Me",
-    "section": "",
-    "text": "Built models for user growth analysis and tracked core metrics\nVisualized user distribution and content creator popularity by city\nAnalyzed viewing behavior, video completion rates, and duration patterns\nTools used: SQL, Python, Excel, Tableau"
-  },
-  {
-    "objectID": "index.html#abide-brain-imaging-statistical-project",
-    "href": "index.html#abide-brain-imaging-statistical-project",
-    "title": "About Me",
-    "section": "",
-    "text": "Applied PCA, FA, and CCA to extract neural patterns from ABIDE dataset\nAuthored course paper titled “Applications of Multivariate Statistics in Autism Brain Imaging Research”"
-  },
-  {
-    "objectID": "index.html#ames-housing-price-prediction-project",
-    "href": "index.html#ames-housing-price-prediction-project",
-    "title": "About Me",
-    "section": "",
-    "text": "Built multiple regression models to identify key factors influencing prices\nPerformed data cleaning, variable selection, model diagnostics and optimization"
-  },
-  {
-    "objectID": "index.html#family-size-regression-project",
-    "href": "index.html#family-size-regression-project",
-    "title": "About Me",
-    "section": "",
-    "text": "Used Poisson and Negative Binomial regression to analyze effects of literacy, marriage age, and region on number of children\n\n// internships.qmd"
-  },
-  {
-    "objectID": "index.html#china-macau-financial-asset-exchange-co.-ltd.-aug-2024-oct-2024",
-    "href": "index.html#china-macau-financial-asset-exchange-co.-ltd.-aug-2024-oct-2024",
-    "title": "About Me",
-    "section": "",
-    "text": "Assisted in matching financing tools for local government platforms\nDesigned “Community Popularity” and “Influence Index” metrics for a cultural branding project"
-  },
-  {
-    "objectID": "index.html#southern-finance-omnimedia-group-may-2024-aug-2024",
-    "href": "index.html#southern-finance-omnimedia-group-may-2024-aug-2024",
-    "title": "About Me",
-    "section": "",
-    "text": "Conducted economic and financial policy research and wrote analytical reports\nCleaned and visualized economic indicators (GDP, CPI, etc.) using Python, R, Excel\nCo-authored published article: “Green Guangdong Ecosystem Map”"
-  },
-  {
-    "objectID": "index.html#central-china-securities-co.-ltd.-may-2023-sep-2023",
-    "href": "index.html#central-china-securities-co.-ltd.-may-2023-sep-2023",
-    "title": "About Me",
-    "section": "",
-    "text": "Supported due diligence, material preparation, and industry research for investment banking projects\nBuilt financial models and participated in project roadshows\n\n// about.qmd\nHi! I’m Fan Peng, an undergraduate student at the University of Toronto majoring in Mathematics and Statistics.\nI’m passionate about data, models, and uncovering insights behind numbers.\nThrough rigorous coursework and hands-on projects, I’ve developed strong analytical and technical skills. My goal is to combine statistical modeling with real-world applications and pursue a career in data analytics, research, or consulting.\nFeel free to reach out for collaboration or conversation!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Fan Peng | About Me",
-    "section": "",
-    "text": "Hi! I’m Fan Peng, an undergraduate student at the University of Toronto majoring in Mathematics and Statistics.\nI’m passionate about data, models, and uncovering insights behind numbers.\nThrough rigorous coursework and hands-on projects, I’ve developed strong analytical and technical skills. My goal is to combine statistical modeling with real-world applications and pursue a career in data analytics, research, or consulting.\nFeel free to reach out for collaboration or conversation!"
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "Fan Peng | Home",
-    "section": "",
-    "text": "Undergraduate student @ University of Toronto, majoring in Mathematics and Statistics\n📧 f.peng@utoronto.ca\n\n\n\n\n\nBachelor of Science, Major in Mathematics and Statistics\nSep 2022 – Jun 2026\n\n\nProficient in data analysis, statistical modeling, and programming\nExtensive project and internship experience (see navigation above)"
-  },
-  {
-    "objectID": "home.html#education",
-    "href": "home.html#education",
-    "title": "Fan Peng | Home",
-    "section": "",
-    "text": "Bachelor of Science, Major in Mathematics and Statistics\nSep 2022 – Jun 2026\n\n\nProficient in data analysis, statistical modeling, and programming\nExtensive project and internship experience (see navigation above)"
-  },
-  {
-    "objectID": "home.html#programming-tools",
-    "href": "home.html#programming-tools",
-    "title": "About Me",
-    "section": "",
-    "text": "Proficient with R Studio, Python, LaTeX, SQL\nExperienced in data analysis and visualization using Excel and Tableau"
-  },
-  {
-    "objectID": "home.html#data-statistical-analysis",
-    "href": "home.html#data-statistical-analysis",
-    "title": "About Me",
-    "section": "",
-    "text": "Skilled in data cleaning, modeling, and visualization\nFamiliar with multiple regression, factor analysis, Poisson/Negative Binomial regression, time series analysis"
-  },
-  {
-    "objectID": "home.html#academic-coursework",
-    "href": "home.html#academic-coursework",
-    "title": "About Me",
-    "section": "",
-    "text": "Mathematical Analysis, Advanced Calculus, Linear Algebra, Multivariable Calculus\nProbability Theory, Mathematical Statistics, Statistical Modeling, Bayesian Statistics, Sampling Theory\nMultivariate Analysis, Combinatorics, Linear Programming, ODEs, Discrete Mathematics, Symbolic Logic\n\n// projects.qmd"
-  },
-  {
-    "objectID": "home.html#douyin-data-analysis-project-bytedance-may-2025-jul-2025",
-    "href": "home.html#douyin-data-analysis-project-bytedance-may-2025-jul-2025",
-    "title": "About Me",
-    "section": "",
-    "text": "Built models for user growth analysis and tracked core metrics\nVisualized user distribution and content creator popularity by city\nAnalyzed viewing behavior, video completion rates, and duration patterns\nTools used: SQL, Python, Excel, Tableau"
-  },
-  {
-    "objectID": "home.html#abide-brain-imaging-statistical-project",
-    "href": "home.html#abide-brain-imaging-statistical-project",
-    "title": "About Me",
-    "section": "",
-    "text": "Applied PCA, FA, and CCA to extract neural patterns from ABIDE dataset\nAuthored course paper titled “Applications of Multivariate Statistics in Autism Brain Imaging Research”"
-  },
-  {
-    "objectID": "home.html#ames-housing-price-prediction-project",
-    "href": "home.html#ames-housing-price-prediction-project",
-    "title": "About Me",
-    "section": "",
-    "text": "Built multiple regression models to identify key factors influencing prices\nPerformed data cleaning, variable selection, model diagnostics and optimization"
-  },
-  {
-    "objectID": "home.html#family-size-regression-project",
-    "href": "home.html#family-size-regression-project",
-    "title": "About Me",
-    "section": "",
-    "text": "Used Poisson and Negative Binomial regression to analyze effects of literacy, marriage age, and region on number of children\n\n// internships.qmd"
-  },
-  {
-    "objectID": "home.html#china-macau-financial-asset-exchange-co.-ltd.-aug-2024-oct-2024",
-    "href": "home.html#china-macau-financial-asset-exchange-co.-ltd.-aug-2024-oct-2024",
-    "title": "About Me",
-    "section": "",
-    "text": "Assisted in matching financing tools for local government platforms\nDesigned “Community Popularity” and “Influence Index” metrics for a cultural branding project"
-  },
-  {
-    "objectID": "home.html#southern-finance-omnimedia-group-may-2024-aug-2024",
-    "href": "home.html#southern-finance-omnimedia-group-may-2024-aug-2024",
-    "title": "About Me",
-    "section": "",
-    "text": "Conducted economic and financial policy research and wrote analytical reports\nCleaned and visualized economic indicators (GDP, CPI, etc.) using Python, R, Excel\nCo-authored published article: “Green Guangdong Ecosystem Map”"
-  },
-  {
-    "objectID": "home.html#central-china-securities-co.-ltd.-may-2023-sep-2023",
-    "href": "home.html#central-china-securities-co.-ltd.-may-2023-sep-2023",
-    "title": "About Me",
-    "section": "",
-    "text": "Supported due diligence, material preparation, and industry research for investment banking projects\nBuilt financial models and participated in project roadshows\n\n// about.qmd\nHi! I’m Fan Peng, an undergraduate student at the University of Toronto majoring in Mathematics and Statistics.\nI’m passionate about data, models, and uncovering insights behind numbers.\nThrough rigorous coursework and hands-on projects, I’ve developed strong analytical and technical skills. My goal is to combine statistical modeling with real-world applications and pursue a career in data analytics, research, or consulting.\nFeel free to reach out for collaboration or conversation!"
-  },
-  {
-    "objectID": "skills.html",
-    "href": "skills.html",
-    "title": "Fan Peng ｜ Skills",
-    "section": "",
-    "text": "Your browser does not support the video tag."
-  },
-  {
     "objectID": "skills.html#programming-tools",
     "href": "skills.html#programming-tools",
     "title": "Fan Peng ｜ Skills",
@@ -203,74 +21,11 @@
     "text": "Academic Coursework\n\nMathematical Analysis, Advanced Calculus, Linear Algebra, Multivariable Calculus\nProbability Theory, Mathematical Statistics, Statistical Modeling, Bayesian Statistics, Sampling Theory\nMultivariate Analysis, Combinatorics, Linear Programming, ODEs, Discrete Mathematics, Symbolic Logic"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Fan Peng | Projects",
-    "section": "",
-    "text": "In response to the explosive growth of the short-video industry, I worked as a data analyst part-time assistant at ByteDance to uncover actionable insights from massive user activity datasets on the Douyin platform. My work supported product iteration, strategic growth, and data-driven decision-making.\n\n\n\n\nData Cleaning & Preprocessing: Cleaned and structured raw Tiktok platform data using R, Python (Pandas, NumPy), and Excel. Tasks included removing duplicates, standardizing time formats, transforming string fields, and handling outliers.\nUser Dimension Analysis: Analyzed daily views, unique users, and likes at the city level. Created visualizations (bar charts, heatmaps, pie charts) using Matplotlib, Seaborn, and Plotly to uncover regional user engagement trends and preferences.\nCreator Dimension Analysis: Compared content performance metrics (views, likes) across cities of both users and content creators. Identified mismatch patterns and offered suggestions for content targeting and optimization.\nBehavioral & Completion Analysis: Conducted multi-dimensional analysis on user behavior patterns, video completion rates, and content duration distribution. Used time-based and relational visualizations to generate insights for product strategy.\nStakeholder Collaboration: Worked closely with product managers, engineers, and channel teams to integrate findings into real-time testing and product iteration strategies.\nToolset: SQL, Python, Excel, R, and Rstudio.\n\n\nOutcome: Delivered weekly summary briefs and a comprehensive report integrating quantitative insights to guide content recommendation and marketing decisions.\n\n\n\n\n\n\nApplied PCA, FA, and CCA to extract neural patterns from ABIDE dataset\nAuthored course paper titled “Applications of Multivariate Statistics in Autism Brain Imaging Research”\n\n\n\n\n\nBuilt multiple regression models to identify key factors influencing prices\nPerformed data cleaning, variable selection, model diagnostics and optimization\n\n\n\n\n\nUsed Poisson and Negative Binomial regression to analyze effects of literacy, marriage age, and region on number of children"
-  },
-  {
-    "objectID": "projects.html#douyin-data-analysis-project-bytedance-may-2025-jul-2025",
-    "href": "projects.html#douyin-data-analysis-project-bytedance-may-2025-jul-2025",
-    "title": "Fan Peng | Projects",
-    "section": "",
-    "text": "Built models for user growth analysis and tracked core metrics\nVisualized user distribution and content creator popularity by city\nAnalyzed viewing behavior, video completion rates, and duration patterns\nTools used: SQL, Python, Excel, Tableau"
-  },
-  {
-    "objectID": "projects.html#abide-brain-imaging-statistical-project",
-    "href": "projects.html#abide-brain-imaging-statistical-project",
-    "title": "Fan Peng | Projects",
-    "section": "",
-    "text": "Applied PCA, FA, and CCA to extract neural patterns from ABIDE dataset\nAuthored course paper titled “Applications of Multivariate Statistics in Autism Brain Imaging Research”"
-  },
-  {
-    "objectID": "projects.html#ames-housing-price-prediction-project",
-    "href": "projects.html#ames-housing-price-prediction-project",
-    "title": "Fan Peng | Projects",
-    "section": "",
-    "text": "Built multiple regression models to identify key factors influencing prices\nPerformed data cleaning, variable selection, model diagnostics and optimization"
-  },
-  {
-    "objectID": "projects.html#family-size-regression-project",
-    "href": "projects.html#family-size-regression-project",
-    "title": "Fan Peng | Projects",
-    "section": "",
-    "text": "Used Poisson and Negative Binomial regression to analyze effects of literacy, marriage age, and region on number of children"
-  },
-  {
-    "objectID": "internship.html",
-    "href": "internship.html",
-    "title": "Fan Peng | Internship",
-    "section": "",
-    "text": "Assisted in matching financing tools for local government platforms\nDesigned “Community Popularity” and “Influence Index” metrics for a cultural branding project"
-  },
-  {
-    "objectID": "internship.html#china-macau-financial-asset-exchange-co.-ltd.-aug-2024-oct-2024",
-    "href": "internship.html#china-macau-financial-asset-exchange-co.-ltd.-aug-2024-oct-2024",
-    "title": "Fan Peng | Internship",
-    "section": "",
-    "text": "Assisted in matching financing tools for local government platforms\nDesigned “Community Popularity” and “Influence Index” metrics for a cultural branding project"
-  },
-  {
-    "objectID": "internship.html#southern-finance-omnimedia-group-may-2024-aug-2024",
-    "href": "internship.html#southern-finance-omnimedia-group-may-2024-aug-2024",
-    "title": "Fan Peng | Internship",
-    "section": "Southern Finance Omnimedia Group (May 2024 – Aug 2024)",
-    "text": "Southern Finance Omnimedia Group (May 2024 – Aug 2024)\n\nConducted economic and financial policy research and wrote analytical reports\nCleaned and visualized economic indicators (GDP, CPI, etc.) using Python, R, Excel\nCo-authored published article: “Green Guangdong Ecosystem Map”"
-  },
-  {
-    "objectID": "internship.html#central-china-securities-co.-ltd.-may-2023-sep-2023",
-    "href": "internship.html#central-china-securities-co.-ltd.-may-2023-sep-2023",
-    "title": "Fan Peng | Internship",
-    "section": "Central China Securities Co., Ltd. (May 2023 – Sep 2023)",
-    "text": "Central China Securities Co., Ltd. (May 2023 – Sep 2023)\n\nSupported due diligence, material preparation, and industry research for investment banking projects\nBuilt financial models and participated in project roadshows"
-  },
-  {
-    "objectID": "internships.html",
-    "href": "internships.html",
-    "title": "Fan Peng | Internships",
-    "section": "",
-    "text": "Assisted in matching financing tools for local government platforms\nDesigned “Community Popularity” and “Influence Index” metrics for a cultural branding project\n\n\n\n\n\nConducted economic and financial policy research and wrote analytical reports\nCleaned and visualized economic indicators (GDP, CPI, etc.) using Python, R, Excel\nCo-authored published article: “Green Guangdong Ecosystem Map”\n\n\n\n\n\nSupported due diligence, material preparation, and industry research for investment banking projects\nBuilt financial models and participated in project roadshows"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Fan Peng | Home",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Toronto\nBachelor of Science, Major in Mathematics and Statistics\nSep 2022 – Jun 2026\n\n\nProficient in data analysis, statistical modeling, and programming\nExtensive project and internship experience (see navigation above)"
   },
   {
     "objectID": "internships.html#china-macau-financial-asset-exchange-co.-ltd.-aug-2024-oct-2024",
@@ -294,17 +49,38 @@
     "text": "Central China Securities Co., Ltd. (May 2023 – Sep 2023)\n\nSupported due diligence, material preparation, and industry research for investment banking projects\nBuilt financial models and participated in project roadshows"
   },
   {
-    "objectID": "projects.html#bytedance-douyin-data-analysis-project-part-time-assistantmay-2025-jul-2025",
-    "href": "projects.html#bytedance-douyin-data-analysis-project-part-time-assistantmay-2025-jul-2025",
-    "title": "Fan Peng | Projects",
-    "section": "",
-    "text": "Built models for user growth analysis and tracked core metrics\nVisualized user distribution and content creator popularity by city\nAnalyzed viewing behavior, video completion rates, and duration patterns\nTools used: SQL, Python, Excel, Tableau"
-  },
-  {
     "objectID": "projects.html#bytedance-tiktok-data-analysis-project-part-time-assistantmay-2025-jul-2025",
     "href": "projects.html#bytedance-tiktok-data-analysis-project-part-time-assistantmay-2025-jul-2025",
     "title": "Fan Peng | Projects",
+    "section": "ByteDance Tiktok Data Analysis Project Part-Time Assistant(May 2025 – Jul 2025)",
+    "text": "ByteDance Tiktok Data Analysis Project Part-Time Assistant(May 2025 – Jul 2025)\n\nBackgroud\nIn response to the explosive growth of the short-video industry, I worked as a data analyst part-time assistant at ByteDance to uncover actionable insights from massive user activity datasets on the Douyin platform. My work supported product iteration, strategic growth, and data-driven decision-making.\n\n\nKey Contributions:\n\nData Cleaning & Preprocessing: Cleaned and structured raw Tiktok platform data using R, Python (Pandas, NumPy), and Excel. Tasks included removing duplicates, standardizing time formats, transforming string fields, and handling outliers.\nUser Dimension Analysis: Analyzed daily views, unique users, and likes at the city level. Created visualizations (bar charts, heatmaps, pie charts) using Matplotlib, Seaborn, and Plotly to uncover regional user engagement trends and preferences.\nCreator Dimension Analysis: Compared content performance metrics (views, likes) across cities of both users and content creators. Identified mismatch patterns and offered suggestions for content targeting and optimization.\nBehavioral & Completion Analysis: Conducted multi-dimensional analysis on user behavior patterns, video completion rates, and content duration distribution. Used time-based and relational visualizations to generate insights for product strategy.\nStakeholder Collaboration: Worked closely with product managers, engineers, and channel teams to integrate findings into real-time testing and product iteration strategies.\nToolset: SQL, Python, Excel, R, and Rstudio.\n\n\nOutcome: Delivered weekly summary briefs and a comprehensive report integrating quantitative insights to guide content recommendation and marketing decisions."
+  },
+  {
+    "objectID": "projects.html#abide-brain-imaging-statistical-project",
+    "href": "projects.html#abide-brain-imaging-statistical-project",
+    "title": "Fan Peng | Projects",
+    "section": "ABIDE Brain Imaging Statistical Project",
+    "text": "ABIDE Brain Imaging Statistical Project\n\nApplied PCA, FA, and CCA to extract neural patterns from ABIDE dataset\nAuthored course paper titled “Applications of Multivariate Statistics in Autism Brain Imaging Research”"
+  },
+  {
+    "objectID": "projects.html#ames-housing-price-prediction-project",
+    "href": "projects.html#ames-housing-price-prediction-project",
+    "title": "Fan Peng | Projects",
+    "section": "Ames Housing Price Prediction Project",
+    "text": "Ames Housing Price Prediction Project\n\nBuilt multiple regression models to identify key factors influencing prices\nPerformed data cleaning, variable selection, model diagnostics and optimization"
+  },
+  {
+    "objectID": "projects.html#family-size-regression-project",
+    "href": "projects.html#family-size-regression-project",
+    "title": "Fan Peng | Projects",
+    "section": "Family Size Regression Project",
+    "text": "Family Size Regression Project\n\nUsed Poisson and Negative Binomial regression to analyze effects of literacy, marriage age, and region on number of children"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Fan Peng | Personal Website",
     "section": "",
-    "text": "In response to the explosive growth of the short-video industry, I worked as a data analyst part-time assistant at ByteDance to uncover actionable insights from massive user activity datasets on the Douyin platform. My work supported product iteration, strategic growth, and data-driven decision-making.\n\n\n\n\nData Cleaning & Preprocessing: Cleaned and structured raw Tiktok platform data using R, Python (Pandas, NumPy), and Excel. Tasks included removing duplicates, standardizing time formats, transforming string fields, and handling outliers.\nUser Dimension Analysis: Analyzed daily views, unique users, and likes at the city level. Created visualizations (bar charts, heatmaps, pie charts) using Matplotlib, Seaborn, and Plotly to uncover regional user engagement trends and preferences.\nCreator Dimension Analysis: Compared content performance metrics (views, likes) across cities of both users and content creators. Identified mismatch patterns and offered suggestions for content targeting and optimization.\nBehavioral & Completion Analysis: Conducted multi-dimensional analysis on user behavior patterns, video completion rates, and content duration distribution. Used time-based and relational visualizations to generate insights for product strategy.\nStakeholder Collaboration: Worked closely with product managers, engineers, and channel teams to integrate findings into real-time testing and product iteration strategies.\nToolset: SQL, Python, Excel, R, and Rstudio.\n\n\nOutcome: Delivered weekly summary briefs and a comprehensive report integrating quantitative insights to guide content recommendation and marketing decisions."
+    "text": "Hi! I’m Fan Peng, an undergraduate student at the University of Toronto majoring in Mathematics and Statistics.\nI’m passionate about data, models, and uncovering insights behind numbers.\nThrough rigorous coursework and hands-on projects, I’ve developed strong analytical and technical skills. My goal is to combine statistical modeling with real-world applications and pursue a career in data analytics, research, or consulting.\nFeel free to reach out for collaboration or conversation!"
   }
 ]

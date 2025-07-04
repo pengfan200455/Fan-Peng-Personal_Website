@@ -124,6 +124,21 @@ ul.task-list li input[type="checkbox"] {
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+<div style="
+  position: fixed;
+  top: 70px;           /* 导航栏高约 60px，可微调 */
+  left: 24px;
+  width: 140px;         /* 头像直径 */
+  height: 140px;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0 4 12px rgba(0,0,0,0.25);
+  z-index: 10;">
+  
+  <video src="videos/profile.mp4" autoplay="" muted="" loop="" playsinline="" style="width: 100%; height: 100%; object-fit: cover;">
+  </video>
+</div>
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -198,32 +213,6 @@ ul.task-list li input[type="checkbox"] {
   <source src="bg-music.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
-
-
-<script>
-  const audio = document.getElementById("bg-music");
-
-  // 监听音频加载完成后再设置播放进度
-  audio.addEventListener("loadedmetadata", function () {
-    const savedTime = localStorage.getItem("bg-music-time");
-    if (savedTime) {
-      try {
-        audio.currentTime = parseFloat(savedTime);
-      } catch (err) {
-        console.log("恢复时间失败", err);
-      }
-    }
-    // 确保加载后立即播放（有些浏览器可能阻止自动播放）
-    audio.play().catch(e => {
-      console.log("自动播放失败", e);
-    });
-  });
-
-  // 持续保存播放位置
-  audio.addEventListener("timeupdate", function () {
-    localStorage.setItem("bg-music-time", audio.currentTime);
-  });
-</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
