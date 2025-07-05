@@ -7,17 +7,17 @@ format: html
 <div class="section-banner skills-banner">
  <div class="banner-text">
 
-## Programming & Tools
+# Programming & Tools
 
 -   Proficient with R Studio, Python, LaTeX, SQL
 -   Experienced in data analysis and visualization using Excel and Tableau
 
-## Data & Statistical Analysis
+# Data & Statistical Analysis
 
 -   Skilled in data cleaning, modeling, and visualization
 -   Familiar with multiple regression, factor analysis, Poisson/Negative Binomial regression, time series analysis
 
-## Academic Coursework
+# Academic Coursework
 
 -   Mathematical Analysis, Advanced Calculus, Linear Algebra, Multivariable Calculus
 -   Probability Theory, Mathematical Statistics, Statistical Modeling, Bayesian Statistics, Sampling Theory

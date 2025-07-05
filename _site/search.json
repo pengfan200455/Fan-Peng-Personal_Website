@@ -79,8 +79,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Fan Peng | Personal Website",
+    "title": "Fan Peng | About Me",
     "section": "",
     "text": "Hi! I’m Fan Peng, an undergraduate student at the University of Toronto majoring in Mathematics and Statistics.\nI’m passionate about data, models, and uncovering insights behind numbers.\nThrough rigorous coursework and hands-on projects, I’ve developed strong analytical and technical skills. My goal is to combine statistical modeling with real-world applications and pursue a career in data analytics, research, or consulting.\nFeel free to reach out for collaboration or conversation!"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Fan Peng ｜ Skills",
+    "section": "",
+    "text": "Programming & Tools\n\nProficient with R Studio, Python, LaTeX, SQL\nExperienced in data analysis and visualization using Excel and Tableau\n\n\n\nData & Statistical Analysis\n\nSkilled in data cleaning, modeling, and visualization\nFamiliar with multiple regression, factor analysis, Poisson/Negative Binomial regression, time series analysis\n\n\n\nAcademic Coursework\n\nMathematical Analysis, Advanced Calculus, Linear Algebra, Multivariable Calculus\nProbability Theory, Mathematical Statistics, Statistical Modeling, Bayesian Statistics, Sampling Theory\nMultivariate Analysis, Combinatorics, Linear Programming, ODEs, Discrete Mathematics, Symbolic Logic"
+  },
+  {
+    "objectID": "internships.html",
+    "href": "internships.html",
+    "title": "Fan Peng | Internships",
+    "section": "",
+    "text": "China (Macau) Financial Asset Exchange Co., Ltd. (Aug 2024 – Oct 2024)\n\nAssisted in matching financing tools for local government platforms\nDesigned “Community Popularity” and “Influence Index” metrics for a cultural branding project\n\n\n\nSouthern Finance Omnimedia Group (May 2024 – Aug 2024)\n\nConducted economic and financial policy research and wrote analytical reports\nCleaned and visualized economic indicators (GDP, CPI, etc.) using Python, R, Excel\nCo-authored published article: “Green Guangdong Ecosystem Map”\n\n\n\nCentral China Securities Co., Ltd. (May 2023 – Sep 2023)\n\nSupported due diligence, material preparation, and industry research for investment banking projects\nBuilt financial models and participated in project roadshows"
+  },
+  {
+    "objectID": "projects.html#backgroud",
+    "href": "projects.html#backgroud",
+    "title": "Fan Peng | Projects",
+    "section": "Backgroud",
+    "text": "Backgroud\nIn response to the explosive growth of the short-video industry, I worked as a data analyst part-time assistant at ByteDance to uncover actionable insights from massive user activity datasets on the Douyin platform. My work supported product iteration, strategic growth, and data-driven decision-making."
+  },
+  {
+    "objectID": "projects.html#key-contributions",
+    "href": "projects.html#key-contributions",
+    "title": "Fan Peng | Projects",
+    "section": "Key Contributions:",
+    "text": "Key Contributions:\n\nData Cleaning & Preprocessing: Cleaned and structured raw Tiktok platform data using R, Python (Pandas, NumPy), and Excel. Tasks included removing duplicates, standardizing time formats, transforming string fields, and handling outliers.\nUser Dimension Analysis: Analyzed daily views, unique users, and likes at the city level. Created visualizations (bar charts, heatmaps, pie charts) using Matplotlib, Seaborn, and Plotly to uncover regional user engagement trends and preferences.\nCreator Dimension Analysis: Compared content performance metrics (views, likes) across cities of both users and content creators. Identified mismatch patterns and offered suggestions for content targeting and optimization.\nBehavioral & Completion Analysis: Conducted multi-dimensional analysis on user behavior patterns, video completion rates, and content duration distribution. Used time-based and relational visualizations to generate insights for product strategy.\nStakeholder Collaboration: Worked closely with product managers, engineers, and channel teams to integrate findings into real-time testing and product iteration strategies.\nToolset: SQL, Python, Excel, R, and Rstudio.\n\n\nOutcome: Delivered weekly summary briefs and a comprehensive report integrating quantitative insights to guide content recommendation and marketing decisions."
   }
 ]

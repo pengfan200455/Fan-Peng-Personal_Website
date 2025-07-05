@@ -24,6 +24,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-float: true   # 想浮动时再加
+    toc-location: right
     include-before-body: profile.html
     include-after-body: music.html
 

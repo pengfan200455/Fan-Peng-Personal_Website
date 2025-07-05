@@ -2,18 +2,19 @@
 title: "Fan Peng | Projects"
 editor: visual
 format: html
+toc: true
 ---
 
 <div class="section-banner projects-banner">
  <div class="banner-text">
 
-## ByteDance Tiktok Data Analysis Project Part-Time Assistant(May 2025 – Jul 2025)
+# ByteDance Tiktok Data Analysis Project Part-Time Assistant(May 2025 – Jul 2025)
 
-### Backgroud
+## Backgroud
 
 In response to the explosive growth of the short-video industry, I worked as a data analyst part-time assistant at ByteDance to uncover actionable insights from massive user activity datasets on the Douyin platform. My work supported product iteration, strategic growth, and data-driven decision-making.
 
-### Key Contributions:
+## Key Contributions:
 
 - **Data Cleaning & Preprocessing**: Cleaned and structured raw Tiktok platform data using R, Python (Pandas, NumPy), and Excel. Tasks included removing duplicates, standardizing time formats, transforming string fields, and handling outliers.
 - **User Dimension Analysis**: Analyzed daily views, unique users, and likes at the city level. Created visualizations (bar charts, heatmaps, pie charts) using Matplotlib, Seaborn, and Plotly to uncover regional user engagement trends and preferences.
@@ -25,17 +26,17 @@ In response to the explosive growth of the short-video industry, I worked as a d
 > Outcome: Delivered weekly summary briefs and a comprehensive report integrating quantitative insights to guide content recommendation and marketing decisions.
 
 
-## ABIDE Brain Imaging Statistical Project
+# ABIDE Brain Imaging Statistical Project
 
 -   Applied PCA, FA, and CCA to extract neural patterns from ABIDE dataset
 -   Authored course paper titled "Applications of Multivariate Statistics in Autism Brain Imaging Research"
 
-## Ames Housing Price Prediction Project
+# Ames Housing Price Prediction Project
 
 -   Built multiple regression models to identify key factors influencing prices
 -   Performed data cleaning, variable selection, model diagnostics and optimization
 
-## Family Size Regression Project
+# Family Size Regression Project
 
 -   Used Poisson and Negative Binomial regression to analyze effects of literacy, marriage age, and region on number of children
 
