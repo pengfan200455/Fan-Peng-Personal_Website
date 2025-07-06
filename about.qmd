@@ -21,12 +21,12 @@ format: html
 
 <div class="block">
 <video src="videos/end.mp4"
-       autoplay muted loop playsinline controls preload="auto" webkit-playsinline></video>
+       autoplay muted loop playsinline controls></video>
 </div>
 
 <div class="block">
 <video src="videos/end2.mp4"
-       autoplay muted loop playsinline controls preload="auto" webkit-playsinline></video>
+       autoplay muted loop playsinline controls></video>
 </div>
 
 :::
