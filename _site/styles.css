@@ -154,15 +154,15 @@ li {
 }
 
 .fade-in {
-  opacity: 0;
-  transform: translateY(20px);
-  animation: fadeInUp 0.8s ease-out forwards;
+  opacity: 0;                                /* 初始透明不可见 */
+  transform: translateY(20px);               /* 初始位置稍微往下 */
+  animation: fadeInUp 0.8s ease-out forwards;/* 触发名为 fadeInUp 的动画 */
 }
 
 @keyframes fadeInUp {
   to {
-    opacity: 1;
-    transform: translateY(0);
+    opacity: 1;                              /* 最终变为完全可见 */
+    transform: translateY(0);                /* 回到原始位置（上移20px） */
   }
 }
 
@@ -241,6 +241,7 @@ li {
   border-radius:12px;
   overflow:hidden;
   box-shadow:0 4px 12px rgba(0,0,0,.15);
+  pointer-events: none;
 }
 
 /* step3: 视频铺满容器 */
