@@ -119,8 +119,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#internships-overview" id="toc-internships-overview" class="nav-link active" data-scroll-target="#internships-overview">Internships Overview</a></li>
+  <li><a href="#internships-summary" id="toc-internships-summary" class="nav-link" data-scroll-target="#internships-summary">Internships Summary</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -159,25 +166,53 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="internships-overview" class="level2">
+<h2 class="anchored" data-anchor-id="internships-overview">Internships Overview</h2>
+<div class="skills-grid">
+<div class="skill-card">
+<p><img src="images/internship_icon/icon_1.jpg" class="img-fluid"></p>
+<section id="china-macau-financial-asset-exchange" class="level3">
+<h3 class="anchored" data-anchor-id="china-macau-financial-asset-exchange">China (Macau) Financial Asset Exchange</h3>
+<p>Assisted government financing and developed metrics to assess community influence.</p>
+</section>
+</div>
+<div class="skill-card">
+<p><img src="images/internship_icon/icon_2.jpg" class="img-fluid"></p>
+<section id="southern-finance-omnimedia-group" class="level3">
+<h3 class="anchored" data-anchor-id="southern-finance-omnimedia-group">Southern Finance Omnimedia Group</h3>
+<p>Researched economic policy, visualized key indicators, and co-authored a published article on green development.</p>
+</section>
+</div>
+<div class="skill-card">
+<p><img src="images/internship_icon/icon_3.jpg" class="img-fluid"></p>
+<section id="central-china-securities" class="level3">
+<h3 class="anchored" data-anchor-id="central-china-securities">Central China Securities</h3>
+<p>Assisted investment banking projects through due diligence, modeling, and roadshow support.</p>
+</section>
+</div>
+</div>
+</section>
+<section id="internships-summary" class="level2">
+<h2 class="anchored" data-anchor-id="internships-summary">Internships Summary</h2>
 <div class="section-banner internships-banner">
 <div class="banner-text">
-<section id="china-macau-financial-asset-exchange-co.-ltd.-aug-2024-oct-2024" class="level1">
-<h1>China (Macau) Financial Asset Exchange Co., Ltd.&nbsp;(Aug 2024 – Oct 2024)</h1>
+<section id="china-macau-financial-asset-exchange-co.-ltd.-aug-2024-oct-2024" class="level3">
+<h3 class="anchored" data-anchor-id="china-macau-financial-asset-exchange-co.-ltd.-aug-2024-oct-2024">China (Macau) Financial Asset Exchange Co., Ltd.&nbsp;(Aug 2024 – Oct 2024)</h3>
 <ul>
 <li>Assisted in matching financing tools for local government platforms</li>
 <li>Designed “Community Popularity” and “Influence Index” metrics for a cultural branding project</li>
 </ul>
 </section>
-<section id="southern-finance-omnimedia-group-may-2024-aug-2024" class="level1">
-<h1>Southern Finance Omnimedia Group (May 2024 – Aug 2024)</h1>
+<section id="southern-finance-omnimedia-group-may-2024-aug-2024" class="level3">
+<h3 class="anchored" data-anchor-id="southern-finance-omnimedia-group-may-2024-aug-2024">Southern Finance Omnimedia Group (May 2024 – Aug 2024)</h3>
 <ul>
 <li>Conducted economic and financial policy research and wrote analytical reports</li>
 <li>Cleaned and visualized economic indicators (GDP, CPI, etc.) using Python, R, Excel</li>
 <li>Co-authored published article: “Green Guangdong Ecosystem Map”</li>
 </ul>
 </section>
-<section id="central-china-securities-co.-ltd.-may-2023-sep-2023" class="level1">
-<h1>Central China Securities Co., Ltd.&nbsp;(May 2023 – Sep 2023)</h1>
+<section id="central-china-securities-co.-ltd.-may-2023-sep-2023" class="level3">
+<h3 class="anchored" data-anchor-id="central-china-securities-co.-ltd.-may-2023-sep-2023">Central China Securities Co., Ltd.&nbsp;(May 2023 – Sep 2023)</h3>
 <ul>
 <li>Supported due diligence, material preparation, and industry research for investment banking projects</li>
 <li>Built financial models and participated in project roadshows</li>
@@ -187,6 +222,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <!-- music.html -->
@@ -286,7 +322,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/pengfan200455\.github\.io\/Fan-Peng-Personal_Website\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

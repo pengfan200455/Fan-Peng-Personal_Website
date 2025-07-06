@@ -4,24 +4,81 @@ editor: visual
 format: html
 ---
 
+## Technical Skills Overview {.unnumbered}
+
+::: {.skills-grid}
+
+::: {.skill-card}
+![](images/skill_icon/icon_1.jpg)
+
+### Python
+
+Data wrangling, matplotlib, scikit-learn, seaborn
+:::
+
+::: {.skill-card}
+![](images/skill_icon/icon_2.jpg)
+
+### R
+
+Statistical modeling, ggplot2, dplyr, Shiny apps
+:::
+
+::: {.skill-card}
+![](images/skill_icon/icon_3.jpg)
+
+### SQL
+
+Efficient querying, data filtering, joins, subqueries
+:::
+
+::: {.skill-card}
+![](images/skill_icon/icon_4.jpg)
+
+### LaTeX
+
+Mathematical typesetting, academic papers, resume
+:::
+
+::: {.skill-card}
+![](images/skill_icon/icon_5.jpg)
+
+### Tableau
+
+Data visualization, dashboard design, insights storytelling
+:::
+
+::: {.skill-card}
+![](images/skill_icon/icon_6.jpg)
+
+### Excel
+
+Pivot tables, VLOOKUP, dynamic formulas
+:::
+
+:::
+
+
+## Competency Summary {.unnumbered}
+
 <div class="section-banner skills-banner">
  <div class="banner-text">
 
-# Programming & Tools
+### Programming & Tools
 
--   Proficient with R Studio, Python, LaTeX, SQL
+-   Proficient with R Studio, Python, LaTeX, SQL, R, Html
 -   Experienced in data analysis and visualization using Excel and Tableau
 
-# Data & Statistical Analysis
+### Data & Statistical Analysis
 
 -   Skilled in data cleaning, modeling, and visualization
 -   Familiar with multiple regression, factor analysis, Poisson/Negative Binomial regression, time series analysis
 
-# Academic Coursework
+### Academic Coursework
 
--   Mathematical Analysis, Advanced Calculus, Linear Algebra, Multivariable Calculus
+-   Mathematical Analysis, Advanced Calculus, Linear Algebra, Multivariable Calculus, Number Theory, Graph Theory
 -   Probability Theory, Mathematical Statistics, Statistical Modeling, Bayesian Statistics, Sampling Theory
--   Multivariate Analysis, Combinatorics, Linear Programming, ODEs, Discrete Mathematics, Symbolic Logic
+-   Multivariate Data Analysis, Methods fo Data Analysis, Combinatorics, Linear Programming, ODEs, Discrete Mathematics, Symbolic Logic, Time Series Analysis
 
  </div>
 </div>

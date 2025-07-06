@@ -4,10 +4,9 @@ editor: visual
 format: html
 ---
 
-<div class="home-banner">
-  <div class="banner-text">
-
-# Hello, I'm Fan Peng
+:::: home-banner
+::: banner-text
+## Welcome to my website,<br>I'm Fan Peng
 
 Undergraduate student majoring in Mathematics and Statistics\@ University of Toronto
 
@@ -15,6 +14,5 @@ Undergraduate student majoring in Mathematics and Statistics\@ University of Tor
 
 -   Proficient in data analysis, statistical modeling, and programming
 -   Extensive project and internship experience (see navigation above)
-
- </div>
-</div>
+:::
+::::

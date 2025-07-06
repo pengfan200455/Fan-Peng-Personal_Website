@@ -5,16 +5,72 @@ format: html
 toc: true
 ---
 
+## Projects Overview
+
+::: {.skills-grid}
+
+::: {.skill-card}
+![](images/project_icon/icon_1.jpg)
+
+### ByteDance Tiktok Data Analysis Project
+
+Synthesized user and creator insights into actionable reports that directly supported content strategy and recommendation optimization at ByteDance.
+:::
+
+::: {.skill-card}
+![](images/project_icon/icon_2.jpg)
+
+### Personal Website
+
+Built and deployed a fully responsive personal website to showcase technical projects and skills using modern front-end technologies.
+:::
+
+::: {.skill-card}
+![](images/project_icon/icon_3.jpg)
+
+### Multivariate Analysis of Brain Connectivity in Autism
+
+Conducted a multivariate statistical analysis of fMRI data from the ABIDE dataset to identify neural connectivity patterns linked to autism, integrating PCA, FA, and CCA to uncover group differences and brain-behavior relationships.
+:::
+
+::: {.skill-card}
+![](images/project_icon/icon_6.jpg)
+
+### Hybrid Forecasting of Cocoa Prices
+
+Led a comprehensive forecasting project combining time series and machine learning models to predict cocoa prices using 30+ years of climate and market data, highlighting the impact of environmental variability on agricultural markets.
+:::
+
+::: {.skill-card}
+![](images/project_icon/icon_4.jpg)
+
+### Ames Housing Price Prediction Project
+
+Developed and validated a multivariate linear regression model to analyze key structural and quality factors driving Ames housing prices, achieving strong predictive performance and offering insights for future non-linear modeling improvements.
+:::
+
+::: {.skill-card}
+![](images/project_icon/icon_5.jpg)
+
+### Family Size Regression Project
+
+Conducted a statistical analysis of fertility patterns in Portugal using Poisson and Negative Binomial regression to evaluate how literacy, marriage age, and region influence family size, revealing early marriage and rural residence as key drivers of higher fertility.
+:::
+
+:::
+
+## Projects Summary
+
 <div class="section-banner projects-banner">
  <div class="banner-text">
 
-# ByteDance Tiktok Data Analysis Project Part-Time Assistant(May 2025 – Jul 2025)
+### ByteDance Tiktok Data Analysis Project Part-Time Assistant(May 2025 – Jul 2025)
 
-## Backgroud
+#### Backgroud
 
 In response to the explosive growth of the short-video industry, I worked as a data analyst part-time assistant at ByteDance to uncover actionable insights from massive user activity datasets on the Douyin platform. My work supported product iteration, strategic growth, and data-driven decision-making.
 
-## Key Contributions:
+#### Key Contributions:
 
 - **Data Cleaning & Preprocessing**: Cleaned and structured raw Tiktok platform data using R, Python (Pandas, NumPy), and Excel. Tasks included removing duplicates, standardizing time formats, transforming string fields, and handling outliers.
 - **User Dimension Analysis**: Analyzed daily views, unique users, and likes at the city level. Created visualizations (bar charts, heatmaps, pie charts) using Matplotlib, Seaborn, and Plotly to uncover regional user engagement trends and preferences.
@@ -25,20 +81,79 @@ In response to the explosive growth of the short-video industry, I worked as a d
 
 > Outcome: Delivered weekly summary briefs and a comprehensive report integrating quantitative insights to guide content recommendation and marketing decisions.
 
+### Personal Portfolio Website | HTML, CSS, JavaScript  
 
-# ABIDE Brain Imaging Statistical Project
+- Designed and developed a responsive personal website showcasing projects and skills  
+- Implemented page structure with semantic HTML and styled with modern CSS techniques  
+- Integrated JavaScript to add interactive components such as navigation menus and dynamic content  
+- Deployed using GitHub Pages with version control via Git
 
--   Applied PCA, FA, and CCA to extract neural patterns from ABIDE dataset
--   Authored course paper titled "Applications of Multivariate Statistics in Autism Brain Imaging Research"
+### Brain Connectivity in Autism: A Multivariate Data Analysis Project
 
-# Ames Housing Price Prediction Project
+- Conducted an in-depth multivariate analysis of resting-state fMRI data from the ABIDE dataset as part of an advanced statistics course, focusing on brain connectivity patterns associated with Autism Spectrum Disorder (ASD)
+- Worked with high-dimensional data comprising time-series activity across 110 brain regions for 47 subjects, including demographic information such as age, sex, and diagnosis
+- Preprocessed and standardized data; extracted features through ROI pairwise correlation matrices to prepare for statistical modeling
+- Applied Principal Component Analysis (PCA) for dimensionality reduction and identified principal components that captured intergroup differences
+- Performed Factor Analysis (FA) to uncover latent structures; discovered clusters of connectivity related to cerebellar and frontal-temporal brain regions
+- Conducted Canonical Correlation Analysis (CCA) to explore associations between brain connectivity and demographic variables, revealing meaningful age and sex-related patterns
+- Visualized brain activity dynamics across diagnostic groups using time series plots for selected brain regions
+- Demonstrated the integration of multiple statistical techniques to extract neural signatures, interpret group-level differences, and connect connectivity patterns to behavioral traits
+- Authored final course paper titled *"Multivariate Analysis of Brain Connectivity in Autism"*
 
--   Built multiple regression models to identify key factors influencing prices
--   Performed data cleaning, variable selection, model diagnostics and optimization
+### Climate-Aware Cocoa Price Prediction Project
 
-# Family Size Regression Project
+- Conducted an end-to-end forecasting study on global cocoa prices using over 30 years of daily market and climate data (temperature, rainfall) from ICCO and NCEI Ghana
 
--   Used Poisson and Negative Binomial regression to analyze effects of literacy, marriage age, and region on number of children
+- Preprocessed high-frequency time series data by handling missing values, testing stationarity (ADF test), and applying seasonal differencing and log-transformations
+
+- Built and evaluated multiple forecasting models including ARIMA, SARIMA with exogenous regressors, GARCH, and decision tree regression; trained models using rolling-origin time splits
+
+- Performed model diagnostics (Ljung-Box, residual ACF) and optimized hyperparameters through AIC/BIC minimization and cross-validation
+
+- Compared models using RMSE, MAE, and MAPE; found SARIMA+xreg provided strong performance, while GARCH and tree-based methods struggled with volatility and overfitting
+
+- Visualized actual vs. predicted price trajectories to assess model responsiveness to climate shocks and market fluctuations
+
+- Proposed future enhancements using XGBoost and LSTM to model nonlinear dependencies and long-memory effects
+
+- Demonstrated the applicability of hybrid forecasting pipelines to inform agricultural policy, supply chain planning, and market risk mitigation amid climate uncertainty
+
+- Authored final course paper titled *“Hybrid Time Series and Machine Learning Models for Cocoa Price Forecasting under Climate Variability”*
+
+### Ames Housing Price Prediction Project
+
+- Built a multivariate linear regression model to predict housing prices in Ames, Iowa, using 2,500 observations sampled from the Ames Housing Dataset
+
+- Preprocessed data by removing missing values, detecting outliers via boxplots and Cook's distance, and splitting into training and test sets (70/30)
+
+- Iteratively refined the model by removing insignificant predictors, checking linearity and homoscedasticity through residual plots, and applying Box-Cox transformations
+
+- Assessed model assumptions using Q-Q plots, variance inflation factors (VIF), and partial F-tests to ensure model validity and eliminate multicollinearity
+
+- Identified key predictors such as basement area, year built, garage capacity, and pool quality, highlighting that total basement area added ~$68.58 in value per square foot
+
+- Removed high-leverage and influential points to enhance model performance, achieving an Adjusted R² of 0.85 and improved AIC/BIC scores in the final model
+
+- Proposed future improvements using non-linear models like random forests or boosting to better capture complex housing market interactions
+
+- Authored final paper titled *“Ames Housing Price Estimation: A Multivariate Linear Regression Model”*
+
+### Portugal Family Size Determinants Project
+
+- Modeled determinants of family size using 1979 Portugal World Fertility Survey data with 5,000+ observations, focusing on literacy, age at marriage, and region
+
+- Applied Poisson regression with an offset for marriage duration to account for differing fertility exposure, followed by overdispersion diagnostics and Negative Binomial modeling
+
+- Performed exploratory data analysis using histograms, boxplots, and scatterplots to identify variable distributions and potential predictors
+
+- Identified that women who married at ages 15–18 had 8.6% more children on average compared to those who married at 22–25, with rural regions also showing significantly higher fertility
+
+- Interpreted exponentiated coefficients as relative risk ratios, validated predictors using confidence intervals and likelihood ratio tests, and refined model through variable elimination
+
+- Demonstrated that Negative Binomial regression outperformed Poisson due to minor overdispersion, providing better fit and interpretation of fertility patterns
+
+- Authored final paper titled *“Determinants of Family Size in Portugal: A Statistical Analysis Using Poisson and Negative Binomial Regression”*
+
 
  </div>
 </div>
