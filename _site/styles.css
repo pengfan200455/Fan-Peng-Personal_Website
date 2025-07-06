@@ -10,6 +10,8 @@ body {
   color: #333;
   margin: 0;
   padding: 0;
+  font-size: 16px; /* 🔁 推荐设置字体大小，保证通用可读性 */
+  line-height: 1.7; /* 🔁 增加行高，提升段落阅读体验 */
 }
 
 /* 标题字体 */
@@ -123,6 +125,45 @@ li {
   text-align: center;
   max-width: 850px;
   margin: 0 auto;
+  border-bottom: 2px solid #90caf9; /* ✅ 蓝色下划线装饰 */
+}
+
+.quote {
+  font-style: italic;
+  font-size: 1.05em;
+  color: #555;
+  border-left: 4px solid #90caf9;
+  padding-left: 1em;
+  margin: 1.5em 0;
+}
+
+@media (max-width: 600px) {
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .banner-text {
+    padding: 1.2em;
+    font-size: 0.95em;
+  }
+
+  .skill-card {
+    height: auto;
+    padding: 1em;
+  }
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 /* 通用 banner 样式 */
