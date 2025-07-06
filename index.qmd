@@ -9,20 +9,9 @@ format: html
 
 # Hello, I'm Fan Peng
 
-Undergraduate student \@ University of Toronto, majoring in Mathematics and Statistics
+Undergraduate student majoring in Mathematics and Statistics\@ University of Toronto
 
 📧 [f.peng\@utoronto.ca](mailto:f.peng@utoronto.ca)
-
-------------------------------------------------------------------------
-
-## Education
-
-### University of Toronto
-
-Bachelor of Science, Major in Mathematics and Statistics\
-Sep 2022 – Jun 2026
-
-------------------------------------------------------------------------
 
 -   Proficient in data analysis, statistical modeling, and programming
 -   Extensive project and internship experience (see navigation above)
