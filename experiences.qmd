@@ -1,0 +1,68 @@
+---
+title: "Fan Peng | Experiences"
+editor: visual
+format: html
+---
+
+## Experiences Overview
+
+:::::: skills-grid
+::: skill-card
+![](images/experience_icon/icon_4.jpg)
+
+### Data Analyst(Part-Time Assistant) — ByteDance(TicTok)
+
+Analyzed user behavior and growth metrics using Python & SQL, and supported A/B testing optimization at ByteDance.
+:::
+
+::: skill-card
+![](images/experience_icon/icon_1.jpg)
+
+### Data Analyst Intern — Hainan Aojin Investment
+
+Assisted government financing and developed metrics to assess community influence.
+:::
+
+::: skill-card
+![](images/experience_icon/icon_2.jpg)
+
+### Research Analyst Intern — South Finance Media Group
+
+Researched economic policy, visualized key indicators, and co-authored a published article on green development.
+:::
+
+::: skill-card
+![](images/experience_icon/icon_3.jpg)
+
+### Investment Banking Intern — Central China Securities
+
+Assisted investment banking projects through due diligence, modeling, and roadshow support.
+:::
+::::::
+
+## Experiences Summary
+
+:::: {.section-banner .internships-banner}
+::: banner-text
+### Data Analyst(Part-Time Assistant) — ByteDance(TicTok), May 2025 – Jul 2025  
+- Built metrics dashboards tracking user growth, channel effectiveness, and video completion rate  
+- Conducted city-level user behavior analysis using Python & SQL; generated insights for targeted marketing  
+- Collaborated cross-functionally with product and operations to iterate A/B testing strategies 
+
+### Data Analyst Intern — Hainan Aojin Investment, Aug 2024 – Oct 2024
+
+-   Assisted in matching financing tools for local government platforms
+-   Designed "Community Popularity" and "Influence Index" metrics for a cultural branding project
+
+### Research Analyst Intern — South Finance Media Group, May 2024 – Aug 2024
+
+-   Conducted economic and financial policy research and wrote analytical reports
+-   Cleaned and visualized economic indicators (GDP, CPI, etc.) using Python, R, Excel
+-   Co-authored published article: "Green Guangdong Ecosystem Map"
+
+### Investment Banking Intern — Central China Securities, May 2023 – Sep 2023
+
+-   Supported due diligence, material preparation, and industry research for investment banking projects
+-   Built financial models and participated in project roadshows
+:::
+::::

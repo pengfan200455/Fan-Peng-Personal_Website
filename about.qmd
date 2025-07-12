@@ -4,29 +4,30 @@ editor: visual
 format: html
 ---
 
-<div class="section-banner about-banner">
- <div class="banner-text">
-
+:::: {.section-banner .about-banner}
+::: banner-text
 ## Profile
 
 <p>Hi! I'm Fan Peng, an undergraduate student at the University of Toronto majoring in Mathematics and Statistics.</p>
-  <p>I'm passionate about data, models, and uncovering insights behind numbers.</p>
-  <p>Through rigorous coursework and hands-on projects, I've developed strong analytical and technical skills. My goal is to combine statistical modeling with real-world applications and pursue a career in data analytics, research, or consulting.</p>
-  <p><strong>Feel free to reach out for collaboration or conversation!</strong></p>
 
- </div>
-</div>
+<p>I'm passionate about data, models, and uncovering insights behind numbers.</p>
 
-::: {.about-videos}
+<p>Through rigorous coursework and hands-on projects, I've developed strong analytical and technical skills. My goal is to combine statistical modeling with real-world applications and pursue a career in data analytics, research, or consulting.</p>
 
-<div class="block">
-<video src="videos/end.mp4"
-       autoplay muted loop playsinline controls></video>
-</div>
-
-<div class="block">
-<video src="videos/end2.mp4"
-       autoplay muted loop playsinline controls></video>
-</div>
-
+<p><strong>Feel free to reach out for collaboration or conversation!</strong></p>
 :::
+::::
+
+::::: about-videos
+::: block
+<video src="videos/end.mp4" autoplay muted loop playsinline controls>
+
+</video>
+:::
+
+::: block
+<video src="videos/end2.mp4" autoplay muted loop playsinline controls>
+
+</video>
+:::
+:::::
