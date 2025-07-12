@@ -34,7 +34,7 @@ Researched economic policy, visualized key indicators, and co-authored a publish
 ::: skill-card
 ![](images/experience_icon/icon_3.jpg)
 
-### Investment Banking Intern — Central China Securities
+### Investment Banking Intern — Central China Securities Co., Ltd.
 
 Assisted investment banking projects through due diligence, modeling, and roadshow support.
 :::
@@ -60,7 +60,7 @@ Assisted investment banking projects through due diligence, modeling, and roadsh
 -   Cleaned and visualized economic indicators (GDP, CPI, etc.) using Python, R, Excel
 -   Co-authored published article: "Green Guangdong Ecosystem Map"
 
-### Investment Banking Intern — Central China Securities, May 2023 – Sep 2023
+### Investment Banking Intern — Central China Securities Co., Ltd., May 2023 – Sep 2023
 
 -   Supported due diligence, material preparation, and industry research for investment banking projects
 -   Built financial models and participated in project roadshows
