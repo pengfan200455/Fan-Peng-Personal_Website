@@ -15,7 +15,7 @@ website:
       - href: projects.qmd
         text: "Projects"
       - href: experiences.qmd
-        text: "Internships"
+        text: "Experiences"
       - href: about.qmd
         text: "About"
 
