@@ -26,7 +26,7 @@ Assisted government financing and developed metrics to assess community influenc
 ::: skill-card
 ![](images/experience_icon/icon_2.jpg)
 
-### Research Analyst Intern — South Finance Media Group
+### Research Analyst Intern — Southern Finance Omnimedia Corp
 
 Researched economic policy, visualized key indicators, and co-authored a published article on green development.
 :::
@@ -54,7 +54,7 @@ Assisted investment banking projects through due diligence, modeling, and roadsh
 -   Assisted in matching financing tools for local government platforms
 -   Designed "Community Popularity" and "Influence Index" metrics for a cultural branding project
 
-### Research Analyst Intern — South Finance Media Group, May 2024 – Aug 2024
+### Research Analyst Intern — Southern Finance Omnimedia Corp, May 2024 – Aug 2024
 
 -   Conducted economic and financial policy research and wrote analytical reports
 -   Cleaned and visualized economic indicators (GDP, CPI, etc.) using Python, R, Excel
