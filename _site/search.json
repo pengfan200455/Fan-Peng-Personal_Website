@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "skills.html#technical-skills-overview",
-    "href": "skills.html#technical-skills-overview",
-    "title": "Fan Peng ｜ Skills",
-    "section": "Technical Skills Overview",
-    "text": "Technical Skills Overview\n\n\n\n\nPython\nData wrangling, matplotlib, scikit-learn, seaborn\n\n\n\n\n\nR\nStatistical modeling, ggplot2, dplyr, Shiny apps\n\n\n\n\n\nSQL\nEfficient querying, data filtering, joins, subqueries\n\n\n\n\n\nLaTeX\nMathematical typesetting, academic papers, resume\n\n\n\n\n\nTableau\nData visualization, dashboard design, insights storytelling\n\n\n\n\n\nExcel\nPivot tables, VLOOKUP, dynamic formulas"
-  },
-  {
-    "objectID": "skills.html#competency-summary",
-    "href": "skills.html#competency-summary",
-    "title": "Fan Peng ｜ Skills",
-    "section": "Competency Summary",
-    "text": "Competency Summary\n\n\n\nProgramming & Tools\n\nProficient with R Studio, Python, LaTeX, SQL, R, Html\nExperienced in data analysis and visualization using Excel and Tableau\n\n\n\nData & Statistical Analysis\n\nSkilled in data cleaning, modeling, and visualization\nFamiliar with multiple regression, factor analysis, Poisson/Negative Binomial regression, time series analysis\n\n\n\nAcademic Coursework\n\nMathematical Analysis, Advanced Calculus, Linear Algebra, Multivariable Calculus, Number Theory, Graph Theory\nProbability Theory, Mathematical Statistics, Statistical Modeling, Bayesian Statistics, Sampling Theory\nMultivariate Data Analysis, Methods fo Data Analysis, Combinatorics, Linear Programming, ODEs, Discrete Mathematics, Symbolic Logic, Time Series Analysis"
-  },
-  {
-    "objectID": "index.html#welcome-to-my-website-im-fan-peng",
-    "href": "index.html#welcome-to-my-website-im-fan-peng",
-    "title": "Fan Peng | Home",
-    "section": "Welcome to my website,I’m Fan Peng",
-    "text": "Welcome to my website,I’m Fan Peng\nUndergraduate student majoring in Mathematics and Statistics@ University of Toronto\n📧 f.peng@utoronto.ca\n\nProficient in data analysis, statistical modeling, and programming\nExtensive project and internship experience (see navigation above)"
-  },
-  {
     "objectID": "experiences.html#experiences-overview",
     "href": "experiences.html#experiences-overview",
     "title": "Fan Peng | Experiences",
@@ -33,6 +12,20 @@
     "title": "Fan Peng | Experiences",
     "section": "Experiences Summary",
     "text": "Experiences Summary\n\n\n\nData Analyst(Part-Time Assistant) — ByteDance(TicTok), May 2025 – Jul 2025\n\nBuilt metrics dashboards tracking user growth, channel effectiveness, and video completion rate\n\nConducted city-level user behavior analysis using Python & SQL; generated insights for targeted marketing\n\nCollaborated cross-functionally with product and operations to iterate A/B testing strategies\n\n\n\nData Analyst Intern — Hainan Aojin Investment, Aug 2024 – Oct 2024\n\nAssisted in matching financing tools for local government platforms\nDesigned “Community Popularity” and “Influence Index” metrics for a cultural branding project\n\n\n\nResearch Analyst Intern — South Finance Media Group, May 2024 – Aug 2024\n\nConducted economic and financial policy research and wrote analytical reports\nCleaned and visualized economic indicators (GDP, CPI, etc.) using Python, R, Excel\nCo-authored published article: “Green Guangdong Ecosystem Map”\n\n\n\nInvestment Banking Intern — Central China Securities, May 2023 – Sep 2023\n\nSupported due diligence, material preparation, and industry research for investment banking projects\nBuilt financial models and participated in project roadshows"
+  },
+  {
+    "objectID": "skills.html#technical-skills-overview",
+    "href": "skills.html#technical-skills-overview",
+    "title": "Fan Peng ｜ Skills",
+    "section": "Technical Skills Overview",
+    "text": "Technical Skills Overview\n\n\n\n\nPython\nData wrangling, matplotlib, scikit-learn, seaborn\n\n\n\n\n\nR\nStatistical modeling, ggplot2, dplyr, Shiny apps\n\n\n\n\n\nSQL\nEfficient querying, data filtering, joins, subqueries\n\n\n\n\n\nLaTeX\nMathematical typesetting, academic papers, resume\n\n\n\n\n\nTableau\nData visualization, dashboard design, insights storytelling\n\n\n\n\n\nExcel\nPivot tables, VLOOKUP, dynamic formulas"
+  },
+  {
+    "objectID": "skills.html#competency-summary",
+    "href": "skills.html#competency-summary",
+    "title": "Fan Peng ｜ Skills",
+    "section": "Competency Summary",
+    "text": "Competency Summary\n\n\n\nProgramming & Tools\n\nProficient with R Studio, Python, LaTeX, SQL, R, Html\nExperienced in data analysis and visualization using Excel and Tableau\n\n\n\nData & Statistical Analysis\n\nSkilled in data cleaning, modeling, and visualization\nFamiliar with multiple regression, factor analysis, Poisson/Negative Binomial regression, time series analysis\n\n\n\nAcademic Coursework\n\nMathematical Analysis, Advanced Calculus, Linear Algebra, Multivariable Calculus, Number Theory, Graph Theory\nProbability Theory, Mathematical Statistics, Statistical Modeling, Bayesian Statistics, Sampling Theory\nMultivariate Data Analysis, Methods fo Data Analysis, Combinatorics, Linear Programming, ODEs, Discrete Mathematics, Symbolic Logic, Time Series Analysis"
   },
   {
     "objectID": "projects.html#projects-overview",
