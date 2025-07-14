@@ -10,7 +10,7 @@ format: html
 ::: skill-card
 ![](images/experience_icon/icon_4.jpg)
 
-### Data Analyst(Part-Time Assistant) — ByteDance(TicTok)
+### Data Analyst(Part-Time Assistant) — ByteDance(Douyin)
 
 Analyzed user behavior and growth metrics using Python & SQL, and supported A/B testing optimization at ByteDance.
 :::
@@ -44,7 +44,7 @@ Assisted investment banking projects through due diligence, modeling, and roadsh
 
 :::: {.section-banner .internships-banner}
 ::: banner-text
-### Data Analyst(Part-Time Assistant) — ByteDance(TicTok), May 2025 – Jul 2025  
+### Data Analyst(Part-Time Assistant) — ByteDance(Douyin), May 2025 – Jul 2025  
 - Built metrics dashboards tracking user growth, channel effectiveness, and video completion rate  
 - Conducted city-level user behavior analysis using Python & SQL; generated insights for targeted marketing  
 - Collaborated cross-functionally with product and operations to iterate A/B testing strategies 
